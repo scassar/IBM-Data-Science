@@ -6,4 +6,4 @@ It also includes other projects and files throughout the later weeks of the cour
 
 Great course and for those interested, you can access the course below at the following link: 
 
-[Data Science Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+[Data Science Course](https://www.coursera.org/professional-certificates/ibm-data-science)
