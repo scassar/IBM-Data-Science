@@ -1,4 +1,4 @@
-# IBM Data Science Certificate
+# IBM Data Science Specialisation Certificate
 
 I have some previous experience dealing with a lot of the technologies in this IBM Data Science course, but this course provided a nice framework to learn all the components of CRISP-DM again. 
 
