@@ -1,9 +1,9 @@
 # IBM Data Science Certificate
 
-This repository contains artefacts that we were required to upload to Github for course grading.
+I have some previous experience dealing with a lot of the technologies in this IBM Data Science course, but this course provided a nice framework to learn all the components of CRISP-DM again. 
 
-It also includes other projects and files throughout the later weeks of the course.
+I have just included a few of the weeks assignment files where relevant as part of the course. Most of the grading is through tests that require you to physically manipulate the data for answers. 
 
-Fantastic course and for those interested, you can access the course below at the following link: 
+Overall this is a fantastic course for those interested in Data Science, you can access the course below at the following link: 
 
-[Data Science Course](https://www.coursera.org/professional-certificates/ibm-data-science)
+[IBM Data Science Course](https://www.coursera.org/professional-certificates/ibm-data-science)
